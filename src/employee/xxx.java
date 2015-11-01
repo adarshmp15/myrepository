@@ -11,6 +11,7 @@ package employee;
  */
 public class xxx extends javax.swing.JFrame {
     int i=0;
+    int j=0;
     
 
     /**
