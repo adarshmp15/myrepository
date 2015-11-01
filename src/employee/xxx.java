@@ -10,12 +10,15 @@ package employee;
  * @author ADARSH
  */
 public class xxx extends javax.swing.JFrame {
+    int i=0;
+    
 
     /**
      * Creates new form xxx
      */
     public xxx() {
         initComponents();
+        
     }
 
     /**
